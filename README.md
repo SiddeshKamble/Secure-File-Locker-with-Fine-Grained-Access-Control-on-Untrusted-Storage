@@ -7,6 +7,7 @@ Secure File Locker is a secure file storage and sharing system designed for untr
 
 The system supports secure file encryption, fine-grained sharing, instant access revocation, and a tamper-evident audit log, while offering a transparent and educational cryptographic workflow through an interactive interface.
 
+![](Demo.png)
 ## Key Features
 
 - End-to-End Encryption using AES-GCM
