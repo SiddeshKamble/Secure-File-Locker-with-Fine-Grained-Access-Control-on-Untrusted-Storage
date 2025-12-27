@@ -1,7 +1,7 @@
 
-Secure File Locker with Fine-Grained Access Control
+# Secure File Locker with Fine-Grained Access Control
 ---------------------------------------------------
-# Overview
+## Overview
 
 Secure File Locker is a secure file storage and sharing system designed for untrusted environments. All cryptographic operations are performed locally, ensuring that plaintext data and secret keys never leave the user’s control.
 
