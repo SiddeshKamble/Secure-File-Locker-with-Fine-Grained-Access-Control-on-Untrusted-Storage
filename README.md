@@ -1,11 +1,13 @@
 
-# Secure File Locker with Fine-Grained Access Control
+# Secure File Locker with Fine-Grained Access Control 
 ---------------------------------------------------
 ## Overview
 
 Secure File Locker is a secure file storage and sharing system designed for untrusted environments. All cryptographic operations are performed locally, ensuring that plaintext data and secret keys never leave the user’s control.
 
 The system supports secure file encryption, fine-grained sharing, instant access revocation, and a tamper-evident audit log, while offering a transparent and educational cryptographic workflow through an interactive interface.
+## Live Demo
+https://securefilelocker.streamlit.app/
 
 <img width="621" height="489" alt="Demo" src="https://github.com/user-attachments/assets/3d378b35-af9e-4b19-91ed-d030398f21fe" />
 
