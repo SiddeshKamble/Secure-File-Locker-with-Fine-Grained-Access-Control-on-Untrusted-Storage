@@ -7,7 +7,8 @@ Secure File Locker is a secure file storage and sharing system designed for untr
 
 The system supports secure file encryption, fine-grained sharing, instant access revocation, and a tamper-evident audit log, while offering a transparent and educational cryptographic workflow through an interactive interface.
 
-![](Demo.png)
+<img width="621" height="489" alt="Demo" src="https://github.com/user-attachments/assets/3d378b35-af9e-4b19-91ed-d030398f21fe" />
+
 ## Key Features
 
 - End-to-End Encryption using AES-GCM
@@ -27,7 +28,7 @@ The system supports secure file encryption, fine-grained sharing, instant access
 - Each user generates an X25519 key pair
 - Public keys are stored in the database
 - Private keys are encrypted using a password-derived key
-
+  
 2️⃣ File Encryption
 - A unique AES-GCM key is generated per file
 - Files are encrypted locally before storage
@@ -175,3 +176,6 @@ Go to Audit Log:
 * Verify hash chain integrity
 * Detect any tampering
 ---
+<img width="875" height="654" alt="Screenshot 2026-01-30 at 10 18 14 PM" src="https://github.com/user-attachments/assets/9b6f2642-6db1-472d-ba33-0a19f909c47e" />
+
+<img width="833" height="609" alt="Screenshot 2026-01-30 at 10 18 23 PM" src="https://github.com/user-attachments/assets/0d636c3a-30cd-4ed1-8627-d28b7677ea2d" />
