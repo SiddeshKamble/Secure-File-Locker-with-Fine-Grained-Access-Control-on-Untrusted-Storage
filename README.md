@@ -176,6 +176,6 @@ Go to Audit Log:
 * Verify hash chain integrity
 * Detect any tampering
 ---
-<img width="875" height="654" alt="Screenshot 2026-01-30 at 10 18 14 PM" src="https://github.com/user-attachments/assets/9b6f2642-6db1-472d-ba33-0a19f909c47e" />
+<img width="850" height="610" alt="Screenshot 2026-01-30 at 10 18 14 PM" src="https://github.com/user-attachments/assets/9b6f2642-6db1-472d-ba33-0a19f909c47e" />
 
-<img width="833" height="609" alt="Screenshot 2026-01-30 at 10 18 23 PM" src="https://github.com/user-attachments/assets/0d636c3a-30cd-4ed1-8627-d28b7677ea2d" />
+<img width="850" height="610" alt="Screenshot 2026-01-30 at 10 18 23 PM" src="https://github.com/user-attachments/assets/0d636c3a-30cd-4ed1-8627-d28b7677ea2d" />
